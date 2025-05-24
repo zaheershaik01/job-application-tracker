@@ -31,9 +31,9 @@ javac JobTracker.java ``
 
 ## Technologies Used:
 
-Java 17+
-VS Code or any Java IDE
-File I/O for persistent storage
+- Java 17+
+- VS Code or any Java IDE
+- File I/O for persistent storage
 
 ## License
 This project is open source and free to use.
