@@ -19,12 +19,12 @@ A simple console-based Java application to help you track your job applications.
 
 ###  Compile the code
 ``
-javac JobTracker.java
+javac JobTracker.java \n
 java JobTracker
 ``
 ## Example Entry (When adding a job):
 
-Enter title: Software Engineer Intern
+Enter title: Software Engineer Intern 
 Enter company: Google
 Enter status (Applied/Interview/Rejected/Offer): Applied
 Enter deadline (yyyy-MM-dd): 2025-06-30
